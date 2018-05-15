@@ -1,2 +1,2 @@
-model_checkpoint_path: "simple.ckpt"
-all_model_checkpoint_paths: "simple.ckpt"
+model_checkpoint_path: "fei2.ckpt"
+all_model_checkpoint_paths: "fei2.ckpt"
