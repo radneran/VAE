@@ -1,2 +1,2 @@
-model_checkpoint_path: "fei2.ckpt"
-all_model_checkpoint_paths: "fei2.ckpt"
+model_checkpoint_path: "fei16_beta_50.ckpt"
+all_model_checkpoint_paths: "fei16_beta_50.ckpt"
